@@ -1,1 +1,1 @@
-# This is a PHP, HTML5, CSS3, JavaScript website built for speed, and fully W3C compliant. 
+#I built this website myself in order to promote my web business. The site is built using Vanilla PHP and JavaScript. Also using HTML5, CSS3, and Bootstrap for the responsive design. You can view the live website at www.orangegleam.com
